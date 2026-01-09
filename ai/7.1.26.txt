@@ -1,0 +1,50 @@
+AI (Artifical Intelligence) - It is simulation of human brain.
+
+AI -> Predictions
+
+Generative AI - Generating new content
+
+Agentic AI - Generating new content - Autonomous
+
+Generative AI Applications
+--------------------------
+OpenAI Chat GPT
+
+Google's Gemini
+
+Athrophic's Claude
+
+Meta's llama
+
+Microsoft Copilot
+
+Github Copilot
+
+LLMs - Large Language Model - AI model trained on massive amounts of text data which is available over the internet to understand and generate human-like language.
+
+    gpt-4o, gpt-5o, gpt-3.5-turbo
+
+> It can read, write, summarize, translate, answer questions and even reason - all in natural language.
+
+
+    Large - Refers to huge no of parameters (millions or billions) that the model learns during training.
+
+        Eg. GPT-4 has over 1 trillon parameters
+
+
+    Language:
+
+        It's designed to work with human language - Python 
+
+    Model:
+
+        It is a mathematical system trained to predict next word in a sequence.
+
+Goal: Chatbot
+
+LLM Based Chatbots
+RAG based Chatbots - Retrieval Augumented Generation
+Tool Augumented Chatbots
+Agentic Chatbots
+
+Gen AI + Agentic AI
