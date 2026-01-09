@@ -1,0 +1,25 @@
+# Will use All Control Structures 
+
+# Simulate ATM Pin Functionality (ATM/OTP/Passwords etc)
+
+-> The User will be prompted to enter Pin 
+
+-> The Pin should be 4 Digit only 
+
+-> Assume Correct OTP is stored in variable for comparison 
+
+-> If the OTP given is not 4 Digit Number Display Error Message
+
+    -> OTP Must be 4 Digit Number Only 
+
+-> If the OTP given is a 4 Digit Number and also correct OTP, Display 
+
+    -> Transaction Success 
+
+-> If the OTP given is incorrect, and is also not a 4 digit, then   
+
+    -> Transaction Failed 
+
+-> After 3 Attempts, Display
+
+    -> Maximum Attempts Reached, Try after 24 Hours 

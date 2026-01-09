@@ -1,0 +1,53 @@
+# Student Grade Tracker 
+# Variables, Operators, Conditionals, Loops  
+
+-> Create an Python Application that tracks students grades 
+for multiple subjects 
+
+-> Collect following info from student 
+
+    -> Student ID
+    -> Student Name
+    -> Attendance 
+    -> Scores 
+
+-> Scores 
+
+    -> Repeatedly ask student to enter scores (0-100)
+
+        -> yes for continue 
+        -> no to not continue 
+
+    -> Calculate Average Score 
+
+    -> Determine Performance based on Average Score 
+
+        -> 85 and above -> "A Grade"
+        -> 70 to 84 -> "B Grade"
+        -> 50 to 69 -> "C Grade"
+        -> Below 50 -> "D Grade"
+
+    -> Check Attendance 
+
+        -> Ask Attendance (1-100) % 
+        -> 75 and above, display "OK - GOOD ATTENDANCE"
+        -> Below 75  "WARNING - LOW ATTENDANCE"
+
+    -> Display Final Results 
+
+        -> Student ID
+        -> Student Name 
+        -> Total Score 
+        -> Average Score 
+        -> Performance Level 
+        -> Attendance Status 
+
+-> Application Simulation
+
+   Enter Your ID: 
+   Enter Your Name: 
+   Enter Score For Subject 1: 85
+   Do you want to enter with another score ? (yes/no) yes 
+   Enter Score For Subject 2: 90
+   Do you want to enter with another score ? (yes/no) no 
+   // start working with logics  

@@ -1,0 +1,48 @@
+# Requirement
+
+-> Create a python application to calculate the fee discount for students
+based on their grade levels and academic Performance
+
+-> Get inputs from student 
+
+    Student Name
+    Student Grade (1-12)
+    Base Tuition Fee 
+    Academic Topper (yes/no)
+
+-> Implement Validations Using Conditionals 
+
+    -> Check if grade is between (1-12)
+    -> Display appropriate error message for invalid grades 
+    -> Process discount calculation only for valid input 
+
+-> Discount calculation
+
+    -> For Students in grades 9 to 12
+        -> Also Academic Toppers, apply 20% discount 
+        -> Otherwise, apply 10% discount 
+    
+    -> For Students in grades 6 to 8, apply 5% discount 
+
+    -> For Students in grades below 6, there is no discount 
+
+-> Additional Discounts 
+
+    -> For Students in grade 10, add an Additional 3% discount 
+
+    -> For Students in grade 12, add an Additional 5% discount 
+
+    -> No Additional Discounts for other grades 
+
+-> calculate final Tuition fee after applying all the discounts 
+
+    -> calculate discount amount 
+    -> calculate final fee to pay after discounts 
+
+-> Display Detailed Summary 
+
+    -> Student Name 
+    -> Grade level
+    -> Base Tuition Fee 
+    -> Total Discount
+    -> Fee to pay after discounts
